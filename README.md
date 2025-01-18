@@ -1,4 +1,4 @@
-# Brain-Tumor-Detection-using-Deep-Learning
+# Brain Tumor Detection using Deep Learning
 Brain Tumor Detection using Deep Learning Only Document
 
 ![Brain Tumor](https://github.com/user-attachments/assets/e332db4a-bb25-42b7-8c31-452b5029790e)
